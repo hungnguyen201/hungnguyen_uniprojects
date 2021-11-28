@@ -3,5 +3,5 @@ Since then, I have been joining competitions to get more expoerience and strenth
 
 This directory contains my works during my final year:
 
-1. RMIT Business Analyst Champion 2021 | Top 10
-2. ASEAN Data Science Explorers 2021 | National Finalist (Vietnam)
+1. RMIT Business Analyst Champion 2021 | Top 10 (November 2021)
+2. ASEAN Data Science Explorers 2021 | Vietnam National Finalist (August 2021)
